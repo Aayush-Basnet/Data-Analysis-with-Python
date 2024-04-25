@@ -5,13 +5,13 @@
 --------------------------------------------------------------------------------
 ## Data Analysis with Python
 
-Tasks       | Topic       | Content Included
------------ | ------------|-------------------
+Tasks          | Topic       | Content Included
+-------------- | ------------|-------------------
 [Task 1](https://github.com/Aayush-Basnet/Data-Analysis-with-Python/blob/main/Task%201%20Used%20Car%20Pricing/Used_Car_Pricing.ipynb)      | User Car Pricing  | Data Wrangling: Handling missing values, Data Fromat, Data Standardization, Data Normalization, Binning and Indicator variable
 [Task 2](https://github.com/Aayush-Basnet/Data-Analysis-with-Python/blob/main/Task%202%20EDA%20Laptops%20Pricing%20Dataset/EDA-%20Laptops%20Pricing%20Dataset.ipynb)     | Laptops Pricing  | EDA, groups and pivot tables, Pearson Correlation
 
 
---------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------
 # Task 1: Used Cars Pricing
 
 Objectives:
@@ -34,3 +34,20 @@ Objectives:
   ![alt text](https://github.com/Aayush-Basnet/Data-Analysis-with-Python/blob/fa1a25d97dce2563248c2b6fe73bced16978e8f4/Image/bining%201.2.png)
 6. Indicator variable
  ![alt text](https://github.com/Aayush-Basnet/Data-Analysis-with-Python/blob/fa1a25d97dce2563248c2b6fe73bced16978e8f4/Image/Indicator%20variable_%20dummies.png) 
+
+We use data wrangling to convert data from an initial format to a format that may be better for analysis.
+
+---------------------------------------------------------------------------
+
+# Task 2 : Laptops Pricing Dataset
+
+Objectives:
+* Visualize individual feature patterns
+   ![alt text](https://github.com/Aayush-Basnet/Data-Analysis-with-Python/blob/2712f63f0ba818bdd826a8c227f8a803eaf88798/Image/regplot.png)
+   ![alt text](https://github.com/Aayush-Basnet/Data-Analysis-with-Python/blob/2712f63f0ba818bdd826a8c227f8a803eaf88798/Image/boxplot.png)
+* Run descriptive statistical analysis on the dataset
+  ![alt text](https://github.com/Aayush-Basnet/Data-Analysis-with-Python/blob/2712f63f0ba818bdd826a8c227f8a803eaf88798/Image/description.png)
+* Use group and pivot tables to find the effect of categorical varaibles on price
+  ![alt text](https://github.com/Aayush-Basnet/Data-Analysis-with-Python/blob/2712f63f0ba818bdd826a8c227f8a803eaf88798/Image/group%20and%20pivot%20table.png)
+* User Pearson Correlation to measure the independence between variables
+  ![alt text](https://github.com/Aayush-Basnet/Data-Analysis-with-Python/blob/2712f63f0ba818bdd826a8c227f8a803eaf88798/Image/Pearsonlaw.png)
