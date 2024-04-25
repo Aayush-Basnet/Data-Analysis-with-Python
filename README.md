@@ -7,8 +7,8 @@
 
 Tasks       | Topic       | Content Included
 ----------- | ------------|-------------------
-Task 1      | User Car Pricing  | Data Wrangling: Handling missing values, Data Fromat, Data Standardization, Data Normalization, Binning and Indicator variable
-Task 2     | Laptops Pricing  | EDA, groups and pivot tables, Pearson Correlation
+[Task 1](https://github.com/Aayush-Basnet/Data-Analysis-with-Python/blob/main/Task%201%20Used%20Car%20Pricing/Used_Car_Pricing.ipynb)      | User Car Pricing  | Data Wrangling: Handling missing values, Data Fromat, Data Standardization, Data Normalization, Binning and Indicator variable
+[Task 2](https://github.com/Aayush-Basnet/Data-Analysis-with-Python/blob/main/Task%202%20EDA%20Laptops%20Pricing%20Dataset/EDA-%20Laptops%20Pricing%20Dataset.ipynb)     | Laptops Pricing  | EDA, groups and pivot tables, Pearson Correlation
 
 
 --------------------------------------------------------------------------
