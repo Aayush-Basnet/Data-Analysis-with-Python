@@ -9,6 +9,7 @@ Tasks          | Topic       | Content Included
 -------------- | ------------|-------------------
 [Task 1](https://github.com/Aayush-Basnet/Data-Analysis-with-Python/blob/main/Task%201%20Used%20Car%20Pricing/Used_Car_Pricing.ipynb)      | User Car Pricing  | Data Wrangling: Handling missing values, Data Fromat, Data Standardization, Data Normalization, Binning and Indicator variable
 [Task 2](https://github.com/Aayush-Basnet/Data-Analysis-with-Python/blob/main/Task%202%20EDA%20Laptops%20Pricing%20Dataset/EDA-%20Laptops%20Pricing%20Dataset.ipynb)     | Laptops Pricing  | EDA, groups and pivot tables, Pearson Correlation
+[Task 3](https://github.com/Aayush-Basnet/Data-Analysis-with-Python/blob/main/Task%203%20Model%20Development%20Car%20Pricing/Model%20Development_automobile.ipynb)     | automobile Price  | Model Development; Linear Regression, Polynomial Regression, Pipeline, Visualization, R-square, Mean Square Error, Prediction & Decision Making
 
 
 -----------------------------------------------------------------------------------------------------
@@ -51,3 +52,21 @@ Objectives:
   ![alt text](https://github.com/Aayush-Basnet/Data-Analysis-with-Python/blob/2712f63f0ba818bdd826a8c227f8a803eaf88798/Image/group%20and%20pivot%20table.png)
 * User Pearson Correlation to measure the independence between variables
   ![alt text](https://github.com/Aayush-Basnet/Data-Analysis-with-Python/blob/2712f63f0ba818bdd826a8c227f8a803eaf88798/Image/Pearsonlaw.png)
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+# Task 3 : Model Development; automobile pricing
+
+Objectives: 
+Develop prediction models
+In this task, I'll develop several models that will predict the price of the car using the variables or features. This is just an estimate but should give us an objective idea of how much the car should cost.
+
+* Simple Linear Regression
+  ![alt text](https://github.com/Aayush-Basnet/Data-Analysis-with-Python/blob/a9f42b7faee1f3ba4a4ce3aa29b1c6cf17ea2b71/Image/Task%203_LinearRegression.png)
+  ![alt text](https://github.com/Aayush-Basnet/Data-Analysis-with-Python/blob/a9f42b7faee1f3ba4a4ce3aa29b1c6cf17ea2b71/Image/Task%203_ResidualPlot.png)
+* Multiple Linear Regression
+  ![alt text](https://github.com/Aayush-Basnet/Data-Analysis-with-Python/blob/a9f42b7faee1f3ba4a4ce3aa29b1c6cf17ea2b71/Image/Task%203_DistributionPlot.png)
+* Pipeline
+  ![alt text](https://github.com/Aayush-Basnet/Data-Analysis-with-Python/blob/a9f42b7faee1f3ba4a4ce3aa29b1c6cf17ea2b71/Image/Task%203_Pipeline.png)
+* Conclusion
+ ![alt text](https://github.com/Aayush-Basnet/Data-Analysis-with-Python/blob/a9f42b7faee1f3ba4a4ce3aa29b1c6cf17ea2b71/Image/Task%203_Conclusion.png)
