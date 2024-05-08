@@ -13,6 +13,7 @@ Tasks          | Topic       | Content Included
 [Task 4](https://github.com/Aayush-Basnet/Data-Analysis-with-Python/blob/main/Task%204%20Model%20Development%20Laptop%20Pricing/model_development_laptopspricing.ipynb)   | Laptop Pricing   | Model Development, Linear Regression, Polynomial Regression, Pipeline, Plot
 [Task 5](https://github.com/Aayush-Basnet/Data-Analysis-with-Python/tree/main/Task%205%20Model%20Evaluation%20automobile%20pricing)    | automobile pricing  | Model Evaluation, overfitting, Ridge Regression, Cross validation, Grid Search 
 [Task 6](https://github.com/Aayush-Basnet/Data-Analysis-with-Python/blob/main/Task%206%20Model%20Evaluation%20laptop%20pricing/model_evaluation_laptop_pricing.ipynb)  | Model Evaluation and Refinement   | train, test, cross validation,overfitting, Ridge, Grid search
+[Task 7](https://github.com/Aayush-Basnet/Black-Friday-Sales-Prediction/tree/main/Black%20Friday%20Sales%20Prediction)  | Black Friday Sales Prediction  | EDA, Data cleaning, Visualization, Linear Regression, Ridge Regression, DecisionTreeRegressor, RandomForestRegressor, ExtraTreesRegressor, XGBRegressor 
 -----------------------------------------------------------------------------------------------------
 # Task 1: Used Cars Pricing
 
