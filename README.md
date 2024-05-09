@@ -13,7 +13,7 @@ Tasks          | Topic       | Content Included
 [Task 4](https://github.com/Aayush-Basnet/Data-Analysis-with-Python/blob/main/Task%204%20Model%20Development%20Laptop%20Pricing/model_development_laptopspricing.ipynb)   | Laptop Pricing   | Model Development, Linear Regression, Polynomial Regression, Pipeline, Plot
 [Task 5](https://github.com/Aayush-Basnet/Data-Analysis-with-Python/tree/main/Task%205%20Model%20Evaluation%20automobile%20pricing)    | automobile pricing  | Model Evaluation, overfitting, Ridge Regression, Cross validation, Grid Search 
 [Task 6](https://github.com/Aayush-Basnet/Data-Analysis-with-Python/blob/main/Task%206%20Model%20Evaluation%20laptop%20pricing/model_evaluation_laptop_pricing.ipynb)  | Model Evaluation and Refinement   | train, test, cross validation,overfitting, Ridge, Grid search
-[Task 7](https://github.com/Aayush-Basnet/Black-Friday-Sales-Prediction/tree/main/Black%20Friday%20Sales%20Prediction)  | Black Friday Sales Prediction  | EDA, Data cleaning, Visualization, Linear Regression, Ridge Regression, DecisionTreeRegressor, RandomForestRegressor, ExtraTreesRegressor, XGBRegressor 
+[Task 7 (Project)](https://github.com/Aayush-Basnet/Black-Friday-Sales-Prediction/tree/main/Black%20Friday%20Sales%20Prediction)  | Black Friday Sales Prediction  | EDA, Data cleaning, Visualization, Linear Regression, Ridge Regression, DecisionTreeRegressor, RandomForestRegressor, ExtraTreesRegressor, XGBRegressor 
 -----------------------------------------------------------------------------------------------------
 # Task 1: Used Cars Pricing
 
@@ -134,3 +134,10 @@ In this lab, I'll try to refine our model's performance in predicting the price 
     ![alt text](https://github.com/Aayush-Basnet/Data-Analysis-with-Python/blob/a10eeb54c1d3d4abb333aeef09d4d35f048fcf3b/Image/Task%206%20Ridge%20Regression.png)
   * Use Grid Search to identify the best performing model using different hyperparameters
     ![alt text](https://github.com/Aayush-Basnet/Data-Analysis-with-Python/blob/a10eeb54c1d3d4abb333aeef09d4d35f048fcf3b/Image/Task%206%20Grid%20Search.png)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Project: [Black Friday Sales Prediction](https://github.com/Aayush-Basnet/Data-Analysis-with-Python/tree/main/Black%20Friday%20Sales%20Prediction)
+
+Explore the dynamics of Black Friday sales with predictive modeling. From feature engineering to machine learning, explore the dynamics of one of the largest shopping events globally.Join me as we analyze customer behavior, identify key predictors, and predict sales with machine learning techniques.
+![alt text](https://github.com/Aayush-Basnet/Data-Analysis-with-Python/blob/e43be7ef400fa94435573c3bdb45cc94eb4da75d/Image/black%20friday.png)
