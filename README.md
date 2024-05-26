@@ -14,6 +14,7 @@ Tasks          | Topic       | Content Included
 [Task 5](https://github.com/Aayush-Basnet/Data-Analysis-with-Python/tree/main/Task%205%20Model%20Evaluation%20automobile%20pricing)    | automobile pricing  | Model Evaluation, overfitting, Ridge Regression, Cross validation, Grid Search 
 [Task 6](https://github.com/Aayush-Basnet/Data-Analysis-with-Python/blob/main/Task%206%20Model%20Evaluation%20laptop%20pricing/model_evaluation_laptop_pricing.ipynb)  | Model Evaluation and Refinement   | train, test, cross validation,overfitting, Ridge, Grid search
 [Task 7 (Project)](https://github.com/Aayush-Basnet/Black-Friday-Sales-Prediction/tree/main/Black%20Friday%20Sales%20Prediction)  | Black Friday Sales Prediction  | EDA, Data cleaning, Visualization, Linear Regression, Ridge Regression, DecisionTreeRegressor, RandomForestRegressor, ExtraTreesRegressor, XGBRegressor 
+[Task 8 (Project)](https://github.com/Aayush-Basnet/Data-Analysis-with-Python/tree/main/Customers%20Churn%20Prediction)  | Bank Customer Churn Prediction | Feature Scaling, Logistic Regression, SCV,  KNeighbor Classifier, Decision Tree Classifier, Random Forest Classifier, Gradient Boosting Classifier, XGBoost
 -----------------------------------------------------------------------------------------------------
 # Task 1: Used Cars Pricing
 
@@ -141,3 +142,19 @@ In this lab, I'll try to refine our model's performance in predicting the price 
 
 Explore the dynamics of Black Friday sales with predictive modeling. From feature engineering to machine learning, explore the dynamics of one of the largest shopping events globally.Join me as we analyze customer behavior, identify key predictors, and predict sales with machine learning techniques.
 ![alt text](https://github.com/Aayush-Basnet/Data-Analysis-with-Python/blob/e43be7ef400fa94435573c3bdb45cc94eb4da75d/Image/black%20friday.png)
+
+------------------------------------------------------------------------------------------------------------------------------
+
+# Project: [Customer Churn Prediction](https://github.com/Aayush-Basnet/Data-Analysis-with-Python/tree/main/Customers%20Churn%20Prediction)
+
+Problem Statement :
+Customer churn or customer attrition is a tendency of clients or customers to abandon a brand and stop being a paying client of a particular business or organization. The percentage of customers that discontinue using a company’s services or products during a specific period is called a customer churn rate. Several bad experiences (or just one) are enough, and a customer may quit. And if a large chunk of unsatisfied customers churn at a time interval, both material losses and damage to reputation would be enormous.
+
+
+Working Flow :
+In order to create a model these are the following procedure
+ * Split the dataset in 70% of Train set and 30% of Test Set
+ * Feature engineering
+ * Check the accuracy score for both Training and Test Set
+ * Compare the accuracies for both Training and Test set, in order to check for the overfitting issues
+
