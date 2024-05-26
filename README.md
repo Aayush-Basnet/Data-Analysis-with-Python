@@ -7,7 +7,7 @@
 
 Tasks          | Topic       | Content Included
 -------------- | ------------|-------------------
-[Task 1](https://github.com/Aayush-Basnet/Data-Analysis-with-Python/blob/main/Task%201%20Used%20Car%20Pricing/Used_Car_Pricing.ipynb)      | User Car Pricing  | Data Wrangling: Handling missing values, Data Fromat, Data Standardization, Data Normalization, Binning and Indicator variable
+[Task 1](https://github.com/Aayush-Basnet/Data-Analysis-with-Python/blob/main/Task%201%20Used%20Car%20Pricing/Used_Car_Pricing.ipynb)      | User Car Pricing  | Data Wrangling: Handling missing values, Data Format, Data Standardization, Data Normalization, Binning and Indicator variable
 [Task 2](https://github.com/Aayush-Basnet/Data-Analysis-with-Python/blob/main/Task%202%20EDA%20Laptops%20Pricing%20Dataset/EDA-%20Laptops%20Pricing%20Dataset.ipynb)     | Laptops Pricing  | EDA, groups and pivot tables, Pearson Correlation
 [Task 3](https://github.com/Aayush-Basnet/Data-Analysis-with-Python/blob/main/Task%203%20Model%20Development%20Car%20Pricing/Model%20Development_automobile.ipynb)     | automobile Price  | Model Development; Linear Regression, Polynomial Regression, Pipeline, Visualization, R-square, Mean Square Error, Prediction & Decision Making
 [Task 4](https://github.com/Aayush-Basnet/Data-Analysis-with-Python/blob/main/Task%204%20Model%20Development%20Laptop%20Pricing/model_development_laptopspricing.ipynb)   | Laptop Pricing   | Model Development, Linear Regression, Polynomial Regression, Pipeline, Plot
