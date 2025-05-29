@@ -15,6 +15,10 @@ Tasks          | Topic       | Content Included
 [Task 6](https://github.com/Aayush-Basnet/Data-Analysis-with-Python/blob/main/Task%206%20Model%20Evaluation%20laptop%20pricing/model_evaluation_laptop_pricing.ipynb)  | Model Evaluation and Refinement   | train, test, cross validation,overfitting, Ridge, Grid search
 [Task 7 (Project)](https://github.com/Aayush-Basnet/Black-Friday-Sales-Prediction/tree/main/Black%20Friday%20Sales%20Prediction)  | Black Friday Sales Prediction  | EDA, Data cleaning, Visualization, Linear Regression, Ridge Regression, DecisionTreeRegressor, RandomForestRegressor, ExtraTreesRegressor, XGBRegressor 
 [Task 8 (Project)](https://github.com/Aayush-Basnet/Data-Analysis-with-Python/tree/main/Customers%20Churn%20Prediction)  | Bank Customer Churn Prediction | Feature Scaling, Logistic Regression, SCV,  KNeighbor Classifier, Decision Tree Classifier, Random Forest Classifier, Gradient Boosting Classifier, XGBoost
+[Task 9 (Project)](https://github.com/Aayush-Basnet/Data-Analysis-with-Python/tree/main/Credit%20Card%20Fraud%20Detection)  | Credit Card Fraud Prediction  | EDA, Feature Scaling, underSampling, OverSampling, Logistic Regression, Decision Tree Classifier, joblib
+[Task 10 (Project)](https://github.com/Aayush-Basnet/Data-Analysis-with-Python/tree/main/Day%2015%20Hearth%20Failure%20Prediction) | Hearth Failure Prediction  | EDA, Data Visualization, StandardScaler, Logistic Regression, SVM, Decision Tree Classifier, Naive Bayes, Random Forest Classifier, KNearestNeighbor
+[Task 11 (Project)](https://github.com/Aayush-Basnet/Data-Analysis-with-Python/tree/main/Day%2027%20Book%20Recommendation%20System) | Book Recommendation Systen | Data Pre-processing & Cleaning, EDA, cosine_similarity
+
 -----------------------------------------------------------------------------------------------------
 # Task 1: Used Cars Pricing
 
